@@ -1,0 +1,17 @@
+.delete-user-modal-main{
+    display: flex;
+    flex-direction: column;
+}
+
+.delete-user-modal-main p{
+    margin-top: 1em;
+}
+
+.delete-user-button {
+    margin-top: 1em;
+    align-self: flex-end;
+}
+
+.delete-user-button:nth-child(2) {
+    margin-left: 1em;
+}

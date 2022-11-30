@@ -1,0 +1,9 @@
+.update-user-button{
+    align-self: flex-end;
+    margin-top: 1em;
+}
+
+.update-user-modal{
+    display: flex;
+    flex-direction: column;
+}

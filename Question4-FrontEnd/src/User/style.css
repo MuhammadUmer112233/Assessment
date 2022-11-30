@@ -1,0 +1,18 @@
+.single-user{
+    background-color: #dedef8;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 3em;
+    padding: 2em;
+    border-radius: 10px;
+}
+
+
+.single-user h1{
+    color: #6d6bfc;
+    font-size: 4rem
+}
+
+.single-user p {
+    color: #312df9;
+}

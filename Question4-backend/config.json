@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:password@tcp(localhost:3306)/userapi?parseTime=true",
+    "port": 8000
+}

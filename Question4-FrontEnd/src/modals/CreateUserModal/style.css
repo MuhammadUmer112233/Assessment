@@ -1,0 +1,23 @@
+.create-user-inputs-main input {
+    width: 100%;
+    background: #FFFFFF;
+    border: 1px solid #A1B0CC;
+    border-radius: 4px;
+    padding: 14px;
+    outline: none;
+    margin-top: 1em;
+}
+
+.create-user-inputs-main input:focus {
+
+    border: 2px solid var(--clr-main-light);
+
+}
+
+::-webkit-file-upload-button {
+    display: none;
+}
+
+.create-user-button {
+    margin-top: 1em;
+}
